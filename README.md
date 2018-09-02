@@ -9,7 +9,7 @@ basic app for downloading songs, under development
 
 <h2>Description</h2> <br>
 <p>
-It takes a list of songs as a input(one per line + the author optional), currently named as sont_lists.txt. Then it automates 
+It takes a list of songs as a input(one per line + the author optional), currently named as songs_list.txt. Then it automates 
 download process from the following site: <a>https://www.mp3juices.cc/</a>. The parser is set to parse a json response from the spotify
 web api of a get tracks from playlist. Will be developed in the future.
 </p>
